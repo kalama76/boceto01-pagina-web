@@ -17,7 +17,7 @@ footer, header, section{
 	width: 90%;
 }
 header{
-	background: url("washington-logo.png") no-repeat 1em center,
+	background: url("washington-logo1.png") no-repeat 1em center,
 			    url("fondo.jpg");
 }
 header h1{
